@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  background-color: #007A7C;
+  background-size: 100%;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+p {
+  font-size: 1.5em;
+  font-style: bold;
+}
+
+.quotePanel {
+  font-size: 2.5em;
+  width: 700px;
+  height: auto;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #fff;
+  border-radius: 30px;
+  border-color: #00AA00;
+  border-style: solid;
+  border-width: 5px;
+}
+
+#author {
+  font-family: courier;
+  font-size: 0.5em;
+  font-style: italic;
+  text-align: right;
+}
+
+#link {
+  font-size: 15px;
+}
+
+a {
+  color: black;
+  font-style: bold;
+  text-decoration: none;
+}
